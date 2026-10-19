@@ -9,7 +9,7 @@ the Structure of Phenomenal Experience".
     coherency, distinct_ideas  coherency matrix J J^T and its blocks
     conv_*                     closed forms for circular convolution
     effective_rank_*, entropic_rank   alternative forms of effective rank
-    spanning_tree_cohesion     normalised spanning-tree count of G(A) (arXiv:2609.09306)
+    spanning_tree_cohesion     normalised spanning-tree count of G(A) (arXiv:2609.09306v1)
 
 G(A) is the bipartite graph with edge weights |A_ij|. The measures take torch
 tensors (returning 0-dim tensors) or anything numpy can read (returning floats).
