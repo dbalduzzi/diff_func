@@ -1,6 +1,6 @@
 # Differential Functionalism: Jacobians Shape the Structure of Phenomenal Experience
 
-Code for the paper by David Balduzzi, arXiv:[ID].
+Code for the paper by David Balduzzi, arXiv:2609.09306.
 
 The paper proposes that the first-order structure of physical interactions, Jacobians, shapes the structure of experience, and introduces two measures of that structure: **transparency**, the effective rank of a Jacobian, and **integrity**, its normalised algebraic connectivity. This repository computes the measures and reproduces every figure and quoted number.
 
@@ -28,7 +28,7 @@ The notebook runs in about two minutes on a laptop CPU and writes its figures to
   author = {David Balduzzi},
   title  = {Differential Functionalism: Jacobians Shape the Structure of Phenomenal Experience},
   year   = {2026},
-  note   = {arXiv:[ID]}
+  note   = {arXiv:2609.09306}
 }
 ```
 
